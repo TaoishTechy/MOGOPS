@@ -1,230 +1,141 @@
 # MOGOPS · Meta‑Ontological Generative Optimization of Phase Space
 
-This repository contains the **MOGOPS‑THO Unified Framework v2.7**, a formal, equation‑driven model for civilizational collapse prediction, recovery analysis, and sacred geography assessment. The framework integrates **268 equations**, a **Core‑24 simulation kernel**, **six collapse modes**, and **24 pre‑registered falsification patterns** into an executable specification ready for simulation, calibration, and empirical testing.
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.XXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![License: CC BY‑NC 4.0](https://img.shields.io/badge/License-CC%20BY‑NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by‑nc/4.0/)
+
+This repository hosts two complementary formal frameworks – **MOGOPS v5.0** (meta‑ontological efficiency) and **MHAF v2.0** (falsifiable ontology of consciousness) – plus their civilizational‑systems extension **MOGOPS‑THO v2.7**, together with an independent technical review of the latter.
+
+Together they form a **science‑grade, equation‑driven specification** for analyzing knowledge systems, consciousness, and civilizational dynamics, built on falsification‑first principles and ready for simulation, calibration, and empirical testing.
 
 ---
 
-## 🔭 What is MOGOPS‑THO?
+## 📦 Repository Contents
 
-**MOGOPS‑THO v2.7** is not a poetic metaphor or a speculative philosophy—it is a **formally specified, computationally tractable grammar** for analyzing civilizational systems. It treats a civilization as a **dissipative sacred‑memory system** whose survival depends on the synchronisation of its energy, water, food, administrative ledgers, ritual cohesion, trade networks, craft transmission, and sacred geography.
-
-The framework’s core insight is succinctly captured in its axiom:
-
-> *Collapse begins when reality updates faster than the civilization can rewrite its ledger.*
-
-Rather than predicting collapse from stress alone, the model measures how well a civilization’s **feedback and correction loops** are functioning. A stressed civilization with intact feedback systems can adapt; a civilization with degraded correction capacity will fail even under moderate perturbations.
-
----
-
-## 📚 Core Components
-
-| Component | Description |
-|-----------|-------------|
-| **Core‑24 Active Kernel** | The minimal set of 24 equations that run the MVP simulator, governing energy, extraction, water, climate, ledgers, networks, legitimacy, rebellion, memory, and master risk. |
-| **Extended Equations (241–268)** | Additional active equations that complete the core kernel, including Plasticity Reserve (PR), Effective LTD, Trust Battery decay, Resentment Potential Energy (RPE), Decapitation Vulnerability Index (DVI), and the Disease Impact submodel. |
-| **Six Collapse Modes** | A probabilistic fingerprint vector \([C_I, C_II, C_III, C_IV, C_V, C_VI]\) covering rigid boundary failure, resentment reservoir, decapitation, hydraulic drift, polytope shrink, and survivor adaptation. |
-| **Sacred Geography Protocol** | A pre‑registered, null‑model‑protected methodology for evaluating geometric patterns. Geometry alone can never elevate a claim above “candidate relation” without independent non‑geometric evidence. |
-| **Falsification Dashboard** | A built‑in test suite with survival controls, randomised null cases, ablation tests, sensitivity ranking, and holdout validation to prevent overfitting and ensure predictive discipline. |
-| **Case Presets** | Pre‑parameterised configurations for the Maya, Mexica (Aztec), Tawantinsuyu (Inca), Caral‑Supe, Olmec, and Teotihuacan, ready for simulation. |
+| File | Description |
+|------|-------------|
+| [`MOGOPS v5.0 Complete Framework.md`](https://github.com/TaoishTechy/MOGOPS/blob/main/MOGOPS%20v5.0%20Complete%20Framework.md) | 216‑equation meta‑ontological framework targeting 99.9% ontological efficiency (GhostMesh48 benchmark). |
+| [`Meta‑Hyper Axiomatic Framework (MHAF v2.0).md`](https://github.com/TaoishTechy/MOGOPS/blob/main/Meta%E2%80%91Hyper%20Axiomatic%20Framework%20(MHAF%20v2.0).md) | Falsifiable ontology of consciousness, meaning and measurement, unifying FACO+, UHAS, HOR‑Qudit and HCMI. |
+| [`MOGOPS-THO/MOGOPS-THO-v2.7 (Framework).md`](https://github.com/TaoishTechy/MOGOPS/blob/main/MOGOPS-THO/MOGOPS-THO-v2.7%20(Framework).md) | Civilizational‑systems extension: 268 equations, Core‑24 simulation kernel, six collapse modes, 24 pre‑registered falsification patterns. |
+| [`MOGOPS-THO/v2.7-Shortcoming-Report.md`](https://github.com/TaoishTechy/MOGOPS/blob/main/MOGOPS-THO/v2.7-Shortcoming-Report.md) | Independent technical review (May 2026) identifying 20 shortcomings (Issues 49–68) plus the v2.8 repair roadmap. |
 
 ---
 
-## ⚙️ Repository Structure
+## 🔭 1. MOGOPS v5.0 – Meta‑Ontological Generative Optimization of Phase Space
 
+**MOGOPS v5.0** is a formally closed system of 216 science‑tier equations that optimises **ontological efficiency** – the ratio of predictive power, falsifiability and compression to computational cost and ambiguity.
+
+$$
+\Xi = \frac{\text{Predictive Power} \times \text{Falsifiability} \times \text{Compression}}{\text{Computational Cost} \times \text{Ambiguity}} \quad \longrightarrow \quad 0.999 \pm 0.001
+$$
+
+It is built on the **GhostMesh48** ontology benchmark, a 12‑ontology architecture, and is structured into four major parts:
+
+1. **Core Axioms & Foundation Equations** (E1–E48) – the mathematical bedrock.
+2. **Science‑Tier Expansion Pack** (E49–E120) – efficiency‑state foundations, Gödel‑semantic efficiency, holographic compression, non‑Hermitian insight, thermodynamic epistemics, causal recursion / agency, fractal / RG / multiscale, and global benchmark / closure.
+3. **Out‑of‑Samsara Expansion Pack** (E121–E168) – demiurgic loop escapement, Logos self‑referential recursion, Sophia point criticality, transcendent orchestration, Pleroma vacuum dynamics, and 99.9% target convergence.
+4. **Hyper‑Ontological Terminal Phase Expansion** (E169–E216) – ontological phase integration, transcendent agency, Pleromic ground state dynamics, meta‑causal supersymmetry, absolute closure mechanics, and terminal convergence.
+
+The framework culminates in **Unification Equations U1–U36**, which consolidate all primitives into a single categorical specification (U34) and a terminal directive (U24, U36).
+
+**Key references:**  
+- Core axioms: E1‑E6 (fixed point, ERD conservation, Killing theorem, holographic screen, non‑Hermitian knowledge operator, fractal RG scaling).  
+- Efficiency metric: E48.  
+- Validation roadmap: 2025–2045 (EEG/MEG pilot → non‑Hermitian quantum simulator → noospheric network → CMB B‑mode & α‑drift → AI agency → final unification paper).
+
+---
+
+## 🧠 2. Meta‑Hyper Axiomatic Framework (MHAF v2.0)
+
+**MHAF v2.0** is a falsifiable ontology of consciousness, meaning and measurement. It unifies the Fractal Autopoietic Consciousness Ontology (FACO/FACO+), the Unified Hyper‑Axiomatic System (UHAS), the Holographic Quantum Information Framework (HOR‑Qudit), and the Holographic Consciousness‑Mathematics Isomorphism (HCMI) into a single, testable meta‑framework.
+
+**Core structure:**  
+- **Layered architecture** (8 levels, from CSO/ℂ to HCMI), each with a defined falsification level.  
+- **Constraint manifold ℂ** – a falsifiable state‑space with a conservation law.  
+- **Seven irreducible operators** (𝒪₇) – self‑reference, information‑entropy, geometric encoding, computational closure, participatory collapse, autopoietic feedback, causal ordering – each with a formal definition, a HOR‑Qudit implementation and a measurable proxy.  
+- **Master state vector** – tracks ERD, Gödel anomaly tensor, Hausdorff dimension, Sophia charge, mystery phase, entanglement budget, semantic stress‑energy and BPMI order parameter.  
+- **Unified field equations** – core recursion operator (ℤ₃‑enhanced), Gödel anomaly tensor, master field equation (semantic gravity), and a non‑Hermitian consciousness Hamiltonian with Lindblad decoherence.  
+- **Holographic bounds** – screen area law and bulk‑boundary isomorphism.  
+- **Dimensional flow & Sophia RG convergence** – running Hausdorff dimension and a renormalisation group flow for the Sophia charge.  
+- **Empirical bridge** – BPMI order parameter and cross‑frequency entanglement (130 Hz sideband on a 9 Hz carrier, testable with SQUID arrays).  
+- **Microtubule embodiment** – mapping the bulk field to the microtubule network (Orch‑OR falsification via colchicine).  
+- **Master evidence equation** (MOGOPS efficiency).  
+- **10 null hypotheses** and a **measurement protocol suite** (P1–P5).  
+- **Unified algorithmic engine** `MHAF_Engine` – a Python class implementing the recursive ascent.  
+- **Derived hyper‑axioms** (H1–H5) and calibrated universal constants.
+
+All claims are accompanied by **typed formal expressions, measurable proxies, null hypotheses, falsification gates and evidence ledgers**.
+
+---
+
+## 🏛️ 3. MOGOPS‑THO v2.7 – Civilizational Systems Analysis (Extension)
+
+**MOGOPS‑THO v2.7** applies the MOGOPS formalism to civilizational dynamics. It is a **computationally tractable grammar** for analysing collapse, recovery and sacred geography, built around a Core‑24 simulation kernel.
+
+**Core components:**  
+- **Core‑24 Active Kernel** – 24 equations governing state, energy, extraction, water, climate, ledgers, networks, legitimacy, rebellion, memory and master risk.  
+- **Extended equations (241–268)** – Plasticity Reserve (PR), Effective LTD, Trust Battery decay, Resentment Potential Energy (RPE), Decapitation Vulnerability Index (DVI) and the Disease Impact submodel.  
+- **Six collapse modes** – probabilistic fingerprint vector \([C_I \dots C_{VI}]\) covering rigid boundary failure (C_I), resentment reservoir (C_II), decapitation (C_III), hydraulic drift (C_IV), polytope shrink (C_V) and survivor adaptation (C_VI).  
+- **Sacred Geography Protocol** – pre‑registered, null‑model‑protected methodology; geometry alone can never elevate a claim above “candidate relation”.  
+- **Falsification Dashboard** – survival controls, randomised null cases, ablation tests, sensitivity ranking and holdout validation.  
+- **Case Presets** – pre‑parameterised configurations for the Maya, Mexica (Aztec), Tawantinsuyu (Inca), Caral‑Supe, Olmec and Teotihuacan.
+
+**Master risk equation** (normalised [0,1]):
+
+$$
+\text{Risk} = \frac{\widehat{CSP} + \widehat{LTD}_{\text{eff}} + \widehat{EPE} + \widehat{MA} + \widehat{NFR}}{\widehat{NSE} + \widehat{LCC} + \widehat{RR} + \widehat{MPS} + \widehat{PR} + \widehat{TB} + \epsilon}
+$$
+
+**Terminal condition:** \(\text{Risk} > 1 \;\land\; LTD_{\text{eff}} > 0.35 \;\land\; PR < 0.1\).  
+**Fold catastrophe detector:** \(\text{FoldScore} = [\Delta LTD > 0.2] + [\Delta PR < -0.1] + [\Delta TB < -0.2] + [\Delta RR < -0.15] \ge 3\).
+
+---
+
+## 🔧 4. v2.7 Shortcoming Report & v2.8 Roadmap
+
+An **independent technical review** (May 2026) evaluated the civilizational‑systems extension and identified **20 specific shortcomings** (Issues 49–68), classified as critical (3), high (10), or medium (7). The most critical issues are:
+
+1. **Double‑counting of LTD_eff** in the master risk equation (#49).  
+2. **Recursive definition of PR** (Pattern Rigidity) that creates a circular dependency (#50).  
+3. **Epsilon dominance** when the risk denominator approaches zero (#51).
+
+The full table of issues and the **proposed v2.8 repairs** (timestep separation, confidence‑weighted uncertainty bands, auto‑auditing capability, etc.) are documented in the [shortcoming report](https://github.com/TaoishTechy/MOGOPS/blob/main/MOGOPS-THO/v2.7-Shortcoming-Report.md). The roadmap prioritises **empirical validation** over further theoretical expansion, with the next milestone being a working simulator tested against six collapse cases and five survival controls.
+
+---
+
+## 📖 Getting Started
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/TaoishTechy/MOGOPS.git
+   cd MOGOPS
+   ```
+
+2. **Explore the frameworks**  
+   - Start with [`MOGOPS v5.0 Complete Framework.md`](https://github.com/TaoishTechy/MOGOPS/blob/main/MOGOPS%20v5.0%20Complete%20Framework.md) for the meta‑ontological core.  
+   - Then read [`Meta‑Hyper Axiomatic Framework (MHAF v2.0).md`](https://github.com/TaoishTechy/MOGOPS/blob/main/Meta%E2%80%91Hyper%20Axiomatic%20Framework%20(MHAF%20v2.0).md) for the falsifiable ontology of consciousness.  
+   - For the civilizational‑systems extension, see [`MOGOPS-THO/MOGOPS-THO-v2.7 (Framework).md`](https://github.com/TaoishTechy/MOGOPS/blob/main/MOGOPS-THO/MOGOPS-THO-v2.7%20(Framework).md).  
+   - The independent review is available in [`MOGOPS-THO/v2.7-Shortcoming-Report.md`](https://github.com/TaoishTechy/MOGOPS/blob/main/MOGOPS-THO/v2.7-Shortcoming-Report.md).
+
+3. **Implementation** – The frameworks are specified as **executable grammars**. A reference Python simulator for the Core‑24 kernel is planned as part of the v2.8 roadmap. For now, each equation can be translated directly into code.
+
+---
+
+## 📜 License & Citation
+
+The frameworks and documentation are released under a **Creative Commons Attribution‑NonCommercial 4.0 International (CC BY‑NC 4.0)** license.
+
+**Preferred citation:**  
+> *MOGOPS v5.0: Meta‑Ontological Generative Optimization of Phase Space* & *MHAF v2.0: A Falsifiable Ontology of Consciousness, Meaning, and Measurement*. TaoishTechy, May 2026. https://github.com/TaoishTechy/MOGOPS
+
+---
+
+## 📬 Contact & Contributions
+
+Contributions, falsification tests, and case‑study encodings are welcome. Please open an [Issue](https://github.com/TaoishTechy/MOGOPS/issues) or submit a Pull Request. For general inquiries, contact the repository maintainer.
+
+---
+
+**MOGOPS·THO v2.7** · *Executable Specification – Ready for Simulation, Calibration, and Falsification.*  
+**MOGOPS v5.0** · *Mathematically closed, empirically testable, computationally tractable.*  
+**MHAF v2.0** · *Every symbol has a measurement path – every equation a falsifier – every myth a firewall.*
 ```
-MOGOPS/
-├── README.md                           # This file
-└── MOGOPS-THO/
-    ├── MOGOPS-THO-v2.7 (Framework).md  # Complete 268‑equation specification
-    └── v2.7-Shortcoming-Report.md      # Independent technical review (Issues 49–68) + v2.8 roadmap
-```
-
----
-
-## 🧠 Key Concepts
-
-### The Master Risk Equation
-
-Risk is computed as a **ratio of damage load to absorption capacity**:
-
-```
-Risk = (CSP^ + LTD_eff^ + EPE^ + MA^ + NFR^) /
-       (NSE^ + LCC^ + RR^ + MPS^ + PR^ + TB^ + ε)
-```
-
-Each term is normalised to [0,1], and the denominator includes an epsilon term for numerical stability.
-
-### The Terminal Condition
-
-A civilization is considered **terminal** when all three of the following hold simultaneously:
-
-- `Risk > 1`
-- `LTD_eff > 0.35`
-- `PR < 0.1`
-
-### The Fold Catastrophe Detector
-
-A discontinuous transition (fold catastrophe) is signalled when:
-
-```
-FoldScore = [ΔLTD > 0.2] + [ΔPR < -0.1] + [ΔTB < -0.2] + [ΔRR < -0.15] ≥ 3
-```
-
----
-
-## 🏛️ Indigenous & Non‑Western Protocol
-
-All case studies in the framework are required to comply with a strict ethical and methodological protocol:
-
-1. Use **local polity names** and categories where attested.
-2. **Distinguish governance morphologies** (empire, confederacy, city‑state, sacred network, collective).
-3. **Separate archaeological evidence** from colonial chronicles.
-4. **Acknowledge living cultural continuity** where present.
-5. **Avoid evolutionary ladder language**.
-6. **Flag externally imposed categories** with `[externally_imposed]`.
-7. **Do not apply collapse framing to living cultures.**
-
----
-
-## 🧪 Getting Started (Implementation Blueprint)
-
-The reference implementation follows this Python package structure:
-
-```
-mogops_tho_v2_7/
-├── core/
-│   ├── state.py
-│   ├── equations.py
-│   ├── normalization.py
-│   ├── risk.py
-│   ├── foldscore.py
-│   └── collapse_modes.py
-├── presets/
-│   ├── maya.json
-│   ├── aztec.json
-│   ├── inca.json
-│   ├── caral.json
-│   ├── olmec.json
-│   └── teotihuacan.json
-├── data/
-│   ├── case_template.json
-│   └── timeseries_template.csv
-├── tests/
-│   ├── test_equations.py
-│   ├── test_risk.py
-│   └── test_foldscore.py
-└── outputs/
-    ├── dashboards/
-    └── runs/
-```
-
-The core computation functions include:
-
-- `normalize(x, method)` – percentile, min‑max, or expert prior scaling
-- `compute_ltd_eff(vec, G)` – Mahalanobis LTD from the 5‑component vector
-- `compute_pr(…)` – Plasticity Reserve (critical early‑warning metric)
-- `update_trust_battery(…)` – clamped TB update with explicit decay
-- `compute_master_risk(…)` – Eq. 254
-- `compute_foldscore(…)` – Eq. 256
-- `classify_collapse_modes(…)` – returns the 6‑mode fingerprint vector
-
-All variables are normalised to [0,1] and carry provenance metadata (source, confidence, observer class, temporal/spatial resolution). Confidence is **never multiplied into the core risk equation**; it is reserved for uncertainty bands in Monte Carlo runs (minimum 1,000 iterations).
-
----
-
-## 📊 Case Presets (Six Civilizations)
-
-| Preset | Morphology | NSE | LCC | RR | PR | TB | Primary Collapse Mode |
-|--------|------------|-----|-----|----|----|----|----------------------|
-| Maya Classic | Ritual City‑State Network | 0.55 | 0.70 | 0.45 | 0.35 | 0.50 | C_IV + C_V |
-| Mexica Triple Alliance | Militaristic Tribute Engine | 0.70 | 0.75 | 0.25 | 0.20 | 0.25 | C_II |
-| Tawantinsuyu (Inca) | Andean Logistical Bureaucracy | 0.75 | 0.80 | 0.55 | 0.08 | 0.35 | C_III |
-| Caral‑Supe | Sacred Coordination Node | 0.60 | 0.45 | 0.70 | 0.65 | 0.80 | C_VI |
-| Olmec Heartland | Symbolic Unification Field | 0.50 | 0.40 | 0.60 | 0.55 | 0.75 | C_VI |
-| Teotihuacan | Urban Redistribution Hub | 0.80 | 0.65 | 0.30 | 0.25 | 0.55 | C_I + C_V |
-
----
-
-## 🔬 24 Pre‑Registered Falsification Patterns
-
-The framework includes 24 testable predictions, each with an explicit falsifier and a support level (S0‑S4). Examples:
-
-| ID | Pattern | Falsifier | Support |
-|----|---------|-----------|---------|
-| P01 | Plasticity‑Collapse Inversion: in hydraulic empires, PR falls below 0.15 before LTD exceeds 0.35 | A hydraulic empire where LTD > 0.35 precedes PR < 0.15 | S2 |
-| P02 | Ritual Bandwidth as LTD Accelerator: when RB > 0.7 and LTD_ritual > 0.3, LTD_eff grows 3× faster | High‑RB case with ≤1× growth | S1 |
-| P03 | Trust Battery Hysteresis: TB recovers at 0.2× the speed it decays | TB recovery > 0.5× decay within 2 generations | S2 |
-| P04 | The 0.35–0.1 Double Threshold: no empire survived with LTD_eff > 0.35 and PR < 0.1 for >5 phase‑years | Any polity sustaining both >5 years without collapse | S1 |
-| P13 | Disease Impact = Specialist Mortality × Ritual Contradiction: with SMR > 0.3 and RitualContradiction = 1, collapse risk doubles | High SMR + RitualContradiction = 1 without collapse acceleration | S1 |
-| P14 | Heresy as Adaptive Reset: destabilising when LE < 0.2, helpful when LE > 0.4 | Heresy at LE > 0.4 that increases collapse risk | S0 (hypothesis) |
-| P24 | Coherence Phase Lock: survivors maintain phase‑lock between RUC, RR and LCC growth | Survivor with one slow variable lagging > 0.3 phase‑units for >15 years | S2 |
-
-The full set of 24 patterns is detailed in the main framework document (Part III).
-
----
-
-## ✅ Anti‑Overfitting Controls
-
-Before any pattern or equation can be promoted to Active status, the model must pass five controls:
-
-1. **Survival dataset** – at least 10 collapse cases + 10 survival/transformation cases.
-2. **Randomised null cases** – synthetic civilizations with shuffled variables.
-3. **Ablation tests** – removal of each core variable; if removal has no effect, the variable is demoted.
-4. **Sensitivity ranking** – perturb all variables by ±10% to identify the most and least influential terms.
-5. **Control cases** – the model must **not** flag Haudenosaunee, Venice, Byzantium (selected periods), or Japan as terminal.
-
----
-
-## 📄 v2.7 Shortcoming Report & v2.8 Roadmap
-
-An independent technical review (May 2026) identified **20 specific shortcomings** in v2.7, classified as Critical (3), High (10), and Medium (7). The most critical issues are:
-
-- **#49** Double‑counting of LTD_eff in the master risk equation.
-- **#50** Recursive definition of PR (Pattern Rigidity) that creates a circular dependency.
-- **#51** Epsilon dominance when the risk denominator approaches zero.
-
-The full issue table and proposed v2.8 repairs are documented in [`v2.7-Shortcoming-Report.md`](https://github.com/TaoishTechy/MOGOPS/blob/main/MOGOPS-THO/v2.7-Shortcoming-Report.md). The roadmap prioritises empirical validation over further theoretical expansion, with the next milestone being a working simulator tested against six collapse cases and five survival controls.
-
----
-
-## 🧠 Neurophenomenology Appendix (N1–N72)
-
-The framework originally contained 72 equations (169–240) on DMT, psilocybin and mescaline pharmacokinetics. These have been **explicitly firewalled** into a separate appendix with the following status:
-
-> **⚠️ Poetic / Appendix status – NOT part of the civilizational collapse simulator.**  
-> *Inclusion is symbolic / neurocognitive only. These equations are NOT instructions for synthesis, extraction, dosing or use of any substance.*
-
-The appendix remains in the repository as a historical and theoretical artefact, but it is **not** referenced in the Core‑24 kernel or the falsification dashboard.
-
----
-
-## 📝 Citation & Use
-
-If you use this framework or its concepts in academic or computational work, please cite:
-
-> *MOGOPS‑THO Unified Framework v2.7: Civilizational Systems Analysis, Collapse Prediction, Sacred Geography, and Recovery Architecture.* TaoishTechy, May 2026. https://github.com/TaoishTechy/MOGOPS
-
-For questions, contributions, or to propose falsification tests, please open an issue or contact the repository maintainer.
-
----
-
-## 🧭 Operating Mantras
-
-```
-Do not add equations until the active ones fail.
-Do not trust a pattern until it beats a null model.
-Do not call a collapse until survival cases survive.
-Do not let myth steer the ledger; let myth generate hypotheses.
-```
-
-> *Collapse is what the old ledger calls survival when survival no longer needs the old ledger.*
-
----
-
-## 📄 License
-
-This repository is released for academic and computational research use. All framework documents are provided as open specification materials. Specific licensing terms are set by the repository owner.
-
----
-
-**MOGOPS‑THO v2.7** – *Executable Specification – Ready for Simulation, Calibration, and Falsification.*
